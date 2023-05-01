@@ -1,0 +1,7 @@
+# Paso1: Crear un entorno virtual
+# Paso2, librerias a instalar:
+pip install opencv-python
+pip install cvzone
+
+# fuente
+https://www.youtube.com/watch?v=DlSBC_JNuM0
